@@ -1,4 +1,4 @@
-package com.jeffmedia.manifoldtest;
+package test;
 
 public class ClassWithPrivateField {
 
